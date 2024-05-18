@@ -83,6 +83,9 @@ i {
 }
 
 @media(max-width: 768px) {
+    ul li a {
+        font-size: 12px;
+    }
     main {
         max-height: fit-content;       
     }
