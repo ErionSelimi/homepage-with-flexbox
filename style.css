@@ -100,7 +100,9 @@ i {
         height: 250px;
         margin: 5px auto;
     }
-
+    .tekst {
+        text-align: center;
+    }
     section {
         margin: 0;
     }
